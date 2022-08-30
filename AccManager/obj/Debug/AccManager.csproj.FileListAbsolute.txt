@@ -1,0 +1,10 @@
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.csproj.AssemblyReference.cache
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.Properties.Resources.resources
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.csproj.GenerateResource.cache
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\AccManager\AccManager\bin\Debug\AccManager.exe.config
+C:\Users\Mi\source\repos\AccManager\AccManager\bin\Debug\AccManager.exe
+C:\Users\Mi\source\repos\AccManager\AccManager\bin\Debug\AccManager.pdb
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.exe
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.pdb
+C:\Users\Mi\source\repos\AccManager\AccManager\obj\Debug\AccManager.MainFrm.resources
